@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  video::-webkit-media-controls {
+    display: none;
+  }
+
+  video::-webkit-media-controls-play-button {
+    display: none;
+  }
+
+  video::-webkit-media-controls-volume-slider {
+    display: none;
+  }
+
+  video::-webkit-media-controls-mute-button {
+    display: none;
+  }
+
+  video::-webkit-media-controls-timeline {
+    display: none;
+  }
+
+  video::-webkit-media-controls-current-time-display {
+    display: none;
+  }
+}
