@@ -35,11 +35,3 @@ yarn dev
 ## Project Link
 
 You can access the live site by clicking on the following [link](https://custom-html5-video-player5.netlify.app/)
-
-## What more can you do?
-
-If you love this project and the article and you find it helpful, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/custom-html5-video-player). and also share with friends -- I'd really appreciate it!
-
-## ⚖️ Licence
-
-MIT (c) [Franklin Okolie](https://github.com/DeveloperAspire).
