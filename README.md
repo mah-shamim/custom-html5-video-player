@@ -35,3 +35,5 @@ yarn dev
 ## Project Link
 
 You can access the live site by clicking on the following [link](https://custom-html5-video-player5.netlify.app/)
+
+![Alt](https://repobeats.axiom.co/api/embed/ba0032f091f356404bd56856510b5bd41452ab43.svg "Repobeats analytics image")
